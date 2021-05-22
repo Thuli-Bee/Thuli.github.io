@@ -1,1 +1,2 @@
-# Thuli.github.io
+# Gallery
+Thuli.github.io
